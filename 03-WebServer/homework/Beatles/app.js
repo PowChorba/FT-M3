@@ -22,3 +22,10 @@ var beatles=[{
   profilePic:"http://cp91279.biography.com/BIO_Bio-Shorts_0_Ringo-Starr_SF_HD_768x432-16x9.jpg"
 }
 ]
+
+http.createServer(meEscucha).listen(5050, '127.0.0.1');
+
+function meEscucha(req,res){
+  
+  }
+  

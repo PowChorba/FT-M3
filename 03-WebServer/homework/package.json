@@ -5,6 +5,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "nodemon": "^2.0.18",
     "request": "^2.88.2"
+    
   }
+  
 }
